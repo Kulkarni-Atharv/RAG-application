@@ -17,3 +17,4 @@ vectorStore.js
 ingest_master.js
 ingest_worker.js
 checkEnv.js
+frontend/config.env
