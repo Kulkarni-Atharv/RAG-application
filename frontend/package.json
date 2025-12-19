@@ -11,6 +11,7 @@
   "dependencies": {
     "@mastra/core": "^0.24.9",
     "@mastra/memory": "^0.15.13",
+    "@mastra/pg": "^0.17.10",
     "@neondatabase/serverless": "^1.0.2",
     "dotenv": "^17.2.3",
     "next": "16.1.0",
